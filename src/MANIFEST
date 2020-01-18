@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/ExtUtils/MANIFEST.SKIP
+lib/ExtUtils/Manifest.pm
+t/Manifest.t
+t/release-pod-syntax.t
