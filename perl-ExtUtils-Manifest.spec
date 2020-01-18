@@ -1,6 +1,6 @@
 Name:           perl-ExtUtils-Manifest
 Version:        1.61
-Release:        243%{?dist}
+Release:        244%{?dist}
 Summary:        Utilities to write and check a MANIFEST file
 License:        GPL+ or Artistic
 Group:          Development/Libraries
@@ -58,6 +58,9 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.61-244
+- Mass rebuild 2013-12-27
+
 * Tue Apr 30 2013 Petr Pisar <ppisar@redhat.com> - 1.61-243
 - Increase release number to supersede perl sub-package (bug #957931)
 
